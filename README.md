@@ -10,6 +10,11 @@ It has features like creating a TODO, Updating TODO and Deleting a TODO.
 ![output 1](https://user-images.githubusercontent.com/67038867/86331839-41370680-bc67-11ea-95d4-42c54225ab80.gif)
 ![output 2](https://user-images.githubusercontent.com/67038867/86332034-89562900-bc67-11ea-97b7-0f4a6cf08284.gif)
 
+## TODO:-
+1. Integrate firebase with the project.
+2. Enable sign up with email and password in firebase.
+3. Set permission of read and write as true in collection in firebase.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
