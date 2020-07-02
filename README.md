@@ -1,6 +1,14 @@
-# to_do
+# TODO_APP_WITH_FIREBASE
 
 A new Flutter project.
+
+## Description
+It is a todo app made using flutter having database as firebase. It has Login and signup with validation.
+It has features like creating a TODO, Updating TODO and Deleting a TODO.
+
+## Output
+![output 1](https://user-images.githubusercontent.com/67038867/86331839-41370680-bc67-11ea-95d4-42c54225ab80.gif)
+![output 2](https://user-images.githubusercontent.com/67038867/86332034-89562900-bc67-11ea-97b7-0f4a6cf08284.gif)
 
 ## Getting Started
 
